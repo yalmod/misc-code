@@ -731,9 +731,9 @@ their households/families) from diminished spending power despite lower
 income.
 
 According to basic linear regression models, in Canada, as the
-proportion of seniors (age 65+) grows by 1%, the prevalence of low
-income according to LIM-AT grows by 0.21%. In Quebec, the prevalence of
-low income according to LIM-AT grows by 0.51%. Therefore, population age
+proportion of seniors (age 65+) grows by 1 point percent, the prevalence of low
+income according to LIM-AT grows by 0.21 point percent. In Quebec, the prevalence of
+low income according to LIM-AT grows by 0.51 point percent. Therefore, population age
 may have a greater impact in Quebec over other regions. One reason why
 may be a study design fault, the inadequate sample size by province.
 Reasons related to senior social assistance (ie. do more seniors work
