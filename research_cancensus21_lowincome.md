@@ -28,7 +28,7 @@ notes:
 
 ``` r
 librarian::shelf(cancensus,dplyr,tidyverse,stringr)
-options(cancensus.api_key='CensusMapper_ff5a432202dd99dc8ab9d5bdc5d40870')
+options(cancensus.api_key='[redacted]')
 
 list_census_datasets()
 
