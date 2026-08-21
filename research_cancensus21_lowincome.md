@@ -13,6 +13,9 @@ low income lines the census uses:
   economic family spends more than 20 percent point on necessities than
   national average (after tax)
 
+i found as the population in quebec ages, low income status
+becomes more prevalent but spending power is not diminished. 
+
 notes:
 
 - population is studied rather than economic families or households
